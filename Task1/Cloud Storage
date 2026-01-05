@@ -1,0 +1,29 @@
+# Task 1 – Cloud Storage Setup (AWS S3)
+
+## What is Amazon S3?
+Amazon Simple Storage Service (Amazon S3) is an object storage service provided by AWS that allows users to store and retrieve any amount of data at any time. It is highly scalable, secure, durable, and commonly used for backups, file storage, and hosting static content.
+
+## Steps Followed
+1. Created an AWS Free Tier account.
+2. Opened the AWS Management Console.
+3. Navigated to Amazon S3 service.
+4. Created a new S3 bucket.
+5. Configured bucket settings and region.
+6. Uploaded sample files to the bucket.
+7. Configured bucket permissions and access policies.
+8. Verified successful file upload and access.
+
+
+## Screenshots
+- Bucket creation  
+  ![Bucket Creation](https://1drv.ms/i/c/ce2ec4296821f707/IQB2bT7a-La6SZ2xZXfFfTcBAYrrErAvqbeT_vn5YYh2KJw?e=ZnnhTi)
+
+- Files uploaded  
+  ![Files Uploaded](https://1drv.ms/i/c/ce2ec4296821f707/IQCo7UkwWqiOQrBoES9wPagdAeebVmb2sxrzlzmot-WwK1M?e=Mn0hNu)
+
+- Permissions configuration  
+  ![Permissions](https://1drv.ms/i/c/ce2ec4296821f707/IQAGCxrfBwCHT4TGo8CkA5C5Acahs6c57m-k5s_-8y-sUBA?e=ywOSAc)
+
+
+## Task Status
+Completed successfully.
