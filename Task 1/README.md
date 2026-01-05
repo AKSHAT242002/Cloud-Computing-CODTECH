@@ -21,7 +21,7 @@ Amazon Simple Storage Service (Amazon S3) is an object storage service that prov
   ![Files Uploaded](https://github.com/AKSHAT242002/Cloud-Computing-CODTECH/blob/main/Task%201/Files-Uploaded.png?raw=true)
 
 - Permissions configuration  
-  ![Permissions](screenshots/permissions.png)
+  ![Permissions](https://github.com/AKSHAT242002/Cloud-Computing-CODTECH/blob/main/Task%201/Permissions.png?raw=true)
 
 
 ## Task Status
