@@ -25,6 +25,8 @@
 ![EC2 Instance Creation](https://github.com/AKSHAT242002/Cloud-Computing-CODTECH/blob/c87bc1f2f0116029a1935d14bf046fee13b35309/Task%202/Configure%20storage.png)
 - EC2 Instance Running.
 ![EC2 Instance Running](https://github.com/AKSHAT242002/Cloud-Computing-CODTECH/blob/c67c6bafb373f071e5c4c4f3aa4d6915fb14d817/Task%202/EC2%20instance%20running.png)
+- CPU Alarm Created.
+![CPU Alarm Created](
 ![CPU Alarm Created](./screenshots/cpu_alarm.png)
 ![SNS Email Alert](./screenshots/email_alert.png)
 - CloudWatch Dashboard.
