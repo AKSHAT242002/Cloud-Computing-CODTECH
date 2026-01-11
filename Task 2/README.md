@@ -28,7 +28,6 @@
 - CPU Alarm Created.
 ![CPU Alarm Created](https://github.com/AKSHAT242002/Cloud-Computing-CODTECH/blob/b384c68faa67fb928dbfc78845468fb70519fa60/Task%202/Alarm%20created.png)
 ![CPU Alarm Created](https://github.com/AKSHAT242002/Cloud-Computing-CODTECH/blob/8dce031fa5f6e92e8bddf8cad6d23b70dd01654c/Task%202/cpu%20alarm%20created.png)
-- SNS Email Alert.
 ![SNS Email Alert](https://github.com/AKSHAT242002/Cloud-Computing-CODTECH/blob/c1632661fa22ea1355f5c5484d990273df2b4866/Task%202/Notification%20on%20mail.jpg)
 - CloudWatch Dashboard.
 ![CloudWatch Dashboard](https://github.com/AKSHAT242002/Cloud-Computing-CODTECH/blob/326c876d9b76571b11ac0454b4e7ca93a0d92654/Task%202/Cloudwatch%20dashboard.png)
