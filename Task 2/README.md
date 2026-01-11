@@ -17,7 +17,6 @@
 
 ## Screenshots
 ![EC2 Instance Creation](https://github.com/AKSHAT242002/Cloud-Computing-CODTECH/blob/286ce4e8dc4f334d4fbd85da879800ace50e2b05/Task%202/Name%20of%20instance.png)
-                        (
 ![EC2 Instance Running](https://github.com/AKSHAT242002/Cloud-Computing-CODTECH/blob/c67c6bafb373f071e5c4c4f3aa4d6915fb14d817/Task%202/EC2%20instance%20running.png)
 ![CPU Alarm Created](./screenshots/cpu_alarm.png)
 ![SNS Email Alert](./screenshots/email_alert.png)
