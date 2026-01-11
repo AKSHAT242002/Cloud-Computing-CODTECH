@@ -28,4 +28,4 @@
 ![CPU Alarm Created](./screenshots/cpu_alarm.png)
 ![SNS Email Alert](./screenshots/email_alert.png)
 - CloudWatch Dashboard.
-![CloudWatch Dashboard](./screenshots/dashboard.png)
+![CloudWatch Dashboard](https://github.com/AKSHAT242002/Cloud-Computing-CODTECH/blob/326c876d9b76571b11ac0454b4e7ca93a0d92654/Task%202/Cloudwatch%20dashboard.png)
