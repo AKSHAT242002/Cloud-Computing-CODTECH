@@ -17,7 +17,7 @@ Amazon Simple Storage Service (Amazon S3) is an object storage service that prov
 
 ## Screenshots
 - Bucket creation  
-  ![Bucket Creation](screenshots/bucket-created.png)
+  ![Bucket Creation](https://github.com/AKSHAT242002/Cloud-Computing-CODTECH/blob/a4095bec535e5d156982a7751650e73871e9dc59/Task%201/Bucket%20created.png)
 
 - Files uploaded  
   ![Files Uploaded](screenshots/files-uploaded.png)
