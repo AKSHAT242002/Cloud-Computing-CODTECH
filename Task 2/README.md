@@ -16,6 +16,7 @@
 7. Created CloudWatch Dashboard with CPU, Network In, and Disk metrics
 
 ## Screenshots
+![EC2 Instance Creation](
 ![EC2 Instance Running](./screenshots/ec2_running.png)
 ![CPU Alarm Created](./screenshots/cpu_alarm.png)
 ![SNS Email Alert](./screenshots/email_alert.png)
