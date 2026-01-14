@@ -31,4 +31,4 @@
 - SNS Email Alert.
 ![SNS Email Alert](https://github.com/AKSHAT242002/Cloud-Computing-CODTECH/blob/76c148a608b61234c976573455910ac3270588ec/Task%202/Notification%20on%20mail1.jpg)
 - CloudWatch Dashboard.
-![CloudWatch Dashboard](https://github.com/AKSHAT242002/Cloud-Computing-CODTECH/blob/326c876d9b76571b11ac0454b4e7ca93a0d92654/Task%202/Cloudwatch%20dashboard.png)
+![CloudWatch Dashboard]()
