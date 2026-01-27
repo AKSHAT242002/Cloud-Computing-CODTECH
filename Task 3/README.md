@@ -1,6 +1,6 @@
 # Multi-Cloud Data Transfer with AWS and GCP
 
-- ![](https://github.com/AKSHAT242002/Cloud-Computing-CODTECH/blob/a4095bec535e5d156982a7751650e73871e9dc59/Task%201/Bucket%20created.png)
+- ![](https://github.com/AKSHAT242002/Cloud-Computing-CODTECH/blob/2aa45e29da724176191ab9c3f77d582c39a0c2b3/Task%203/transferring%20from%20s3%20to%20gcs.png)
 
 # Introducing Today's Project!
 
