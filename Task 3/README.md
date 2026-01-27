@@ -77,7 +77,7 @@
 
 - I verified my data transfer was successful by checking my GCP Cloud Storage bucket. After the transfer job completed successfully, I navigated to the bucket in the GCP console and refreshed the page. The files from my S3 bucket were listed in GCP.
 
-![]()
+![](https://github.com/AKSHAT242002/Cloud-Computing-CODTECH/blob/c39e33bab5e651a53d3cbd80a75e5ffe5d76c395/Task%203/transferring%20from%20s3%20to%20gcs.png)
 
 # Transfer with a Manifest
 
