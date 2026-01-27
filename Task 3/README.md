@@ -59,7 +59,7 @@
 
 - There are two different types of transfers you could set up: batch and event-driven. The difference is that batch runs on a set schedule or once, while event-driven automatically transfers data when changes happen in the source.
 
-![]()
+![](https://github.com/AKSHAT242002/Cloud-Computing-CODTECH/blob/2386242b0c151837132ec6454539470ce0a1d313/Task%203/storage%20transfer.png)
 
 # Granting GCP Access to AWS
 
