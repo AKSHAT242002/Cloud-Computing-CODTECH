@@ -1,22 +1,19 @@
 # Multi-Cloud Data Transfer with AWS and GCP
 
+- ()
+
 # Introducing Today's Project!
 
 - In this project, I will demonstrate how to build a multi-cloud storage system by backing up data from AWS S3 to Google Cloud Storage. I'm doing this project to learn how to connect cloud platforms and automate cross-cloud data transfers.
 
-- ()
-
-# Tools and concepts
+## Tools and concepts
 
 - Services I used were AWS IAM, GCP Storage Transfer Service, AWS S3, and GCP Cloud Storage. Key concepts I learned include cross-cloud access, setting up IAM roles, data transfer between clouds, and configuring storage buckets.
 
-- ()
-
-# Project reflection
+## Project reflection
 
 - This project took me approximately 1 hour. The most challenging part was setting up the custom IAM role and trust policy. It was most rewarding to see the data successfully transfer from AWS to GCP with minimal effort.
 
-- ()
 
 # Setting up Data in S3
 
