@@ -1,6 +1,6 @@
 # Multi-Cloud Data Transfer with AWS and GCP
 
-- ![](https://github.com/AKSHAT242002/Cloud-Computing-CODTECH/blob/2aa45e29da724176191ab9c3f77d582c39a0c2b3/Task%203/transferring%20from%20s3%20to%20gcs.png)
+![](https://github.com/AKSHAT242002/Cloud-Computing-CODTECH/blob/2aa45e29da724176191ab9c3f77d582c39a0c2b3/Task%203/transferring%20from%20s3%20to%20gcs.png)
 
 # Introducing Today's Project!
 
@@ -14,18 +14,40 @@
 
 - This project took me approximately 1 hour. The most challenging part was setting up the custom IAM role and trust policy. It was most rewarding to see the data successfully transfer from AWS to GCP with minimal effort.
 
+# Multi‑Cloud Architecture Overview
+
+## This setup illustrates a cross‑cloud workflow where resources from AWS and Google Cloud are integrated:
+
+1. User
+- The end‑user initiates requests (e.g., uploading, retrieving, or processing files).
+
+2. AWS EC2 Instance
+- Acts as the compute environment.
+- Runs applications or scripts that handle file operations.
+- Provides the bridge between the user and cloud storage.
+  
+3. File Access Layer
+- Middleware logic or APIs that manage how files are read/written.
+- Ensures secure authentication and data transfer between platforms.
+- Could involve SDKs, REST APIs, or storage transfer services.
+
+4. Google Cloud Storage (GCS)
+- Serves as the storage backend.
+- Files are ultimately stored, retrieved, or processed here.
+- Offers scalability, durability, and cross‑cloud accessibility.
+
 
 # Setting up Data in S3
 
 - I started this project by setting up a new S3 bucket named nextwork-data-transfer-source-[myname] in the AWS Management Console. I uploaded a few sample files to the bucket to serve as the data source for the upcoming transfer to GCP.
 
-- ()
+  ![]()
 
 # Setting up GCP
 
 - Google Cloud Platform is a suite of cloud services by Google, offering storage, compute, databases, and more. I set up a GCP account to create a destination for data from AWS S3 and to use Storage Transfer Service for cross-cloud backups.
 
-- ()
+![]()
 
 # Storage Transfer
 
@@ -35,7 +57,7 @@
 
 - There are two different types of transfers you could set up: batch and event-driven. The difference is that batch runs on a set schedule or once, while event-driven automatically transfers data when changes happen in the source.
 
-- ()
+![]()
 
 # Granting GCP Access to AWS
 
@@ -45,7 +67,7 @@
 
 - Within the IAM role, I needed a custom trust policy to securely allow GCP access. The policy uses a subject ID, which uniquely identifies my GCP project’s service account and ensures only it can access the S3 bucket.
 
-- ()
+![]()
   
 # Transferring from S3 to GCS!
 
@@ -53,13 +75,13 @@
 
 - I verified my data transfer was successful by checking my GCP Cloud Storage bucket. After the transfer job completed successfully, I navigated to the bucket in the GCP console and refreshed the page. The files from my S3 bucket were listed in GCP.
 
-- ()
+![]()
 
 # Transfer with a Manifest
 
 - I verified my data transfer was successful by checking my GCP Cloud Storage bucket. After the transfer job completed successfully, I navigated to the bucket in the GCP console and refreshed the page. The files from my S3 bucket were listed in GCP.
 
-- ()
+![]()
 
 # Trial, Error, Success
 
