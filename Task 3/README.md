@@ -43,7 +43,7 @@
 
 - I started this project by setting up a new S3 bucket named nextwork-data-transfer-source-[myname] in the AWS Management Console. I uploaded a few sample files to the bucket to serve as the data source for the upcoming transfer to GCP.
 
-![]()
+![](https://github.com/AKSHAT242002/Cloud-Computing-CODTECH/blob/4b0bf48e106566ca941f16fc5cf19314c2dcf105/Task%203/setting%20up%20data.png)
 
 # Setting up GCP
 
