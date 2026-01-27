@@ -36,12 +36,14 @@
 - Files are ultimately stored, retrieved, or processed here.
 - Offers scalability, durability, and cross‑cloud accessibility.
 
+![]()
+
 
 # Setting up Data in S3
 
 - I started this project by setting up a new S3 bucket named nextwork-data-transfer-source-[myname] in the AWS Management Console. I uploaded a few sample files to the bucket to serve as the data source for the upcoming transfer to GCP.
 
-  ![]()
+![]()
 
 # Setting up GCP
 
