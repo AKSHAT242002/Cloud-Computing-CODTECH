@@ -69,7 +69,7 @@
 
 - Within the IAM role, I needed a custom trust policy to securely allow GCP access. The policy uses a subject ID, which uniquely identifies my GCP project’s service account and ensures only it can access the S3 bucket.
 
-![](https://github.com/AKSHAT242002/Cloud-Computing-CODTECH/blob/6510e03eb559cd23702a3161e66d849d2d2d74b4/Task%203/granting%20gcp%20access.png)
+![](https://github.com/AKSHAT242002/Cloud-Computing-CODTECH/blob/390d9c95a809bc107aa3ad141e2b01c563a5c8a4/Task%203/granting%20gcp%20access.png)
   
 # Transferring from S3 to GCS!
 
